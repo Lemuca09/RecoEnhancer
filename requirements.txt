@@ -1,0 +1,8 @@
+tensorflow-cpu
+keras-facenet
+opencv-python
+firebase-admin
+numpy
+python-dotenv
+scikit-learn
+tensorflow-hub
